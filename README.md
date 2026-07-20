@@ -55,7 +55,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="languages.svg" alt="Programming Languages" width="550" />
+  <img src="languages.svg" alt="Programming Languages" width="650" />
   <br/><br/>
   <table>
     <tr align="center">
