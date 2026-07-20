@@ -55,6 +55,38 @@
 <br/><br/>
 
 <div align="center">
+  <img src="languages.svg" alt="Programming Languages" width="500" />
+  <br/><br/>
+  <table>
+    <tr align="center">
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <br/>
+        <img src="c++.webp" alt="C++" height="65" style="border-radius: 6px;" />
+        <br/><br/>
+        <font color="#000000"><b>C++</b></font>
+        <br/><br/>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <br/>
+        <img src="Python.webp" alt="Python" height="65" style="border-radius: 6px;" />
+        <br/><br/>
+        <font color="#000000"><b>Python</b></font>
+        <br/><br/>
+      </td>
+      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+        <br/>
+        <img src="bash.webp" alt="Bash" height="65" style="border-radius: 6px;" />
+        <br/><br/>
+        <font color="#000000"><b>Bash</b></font>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<div align="center">
   <img src="stats.svg" alt="GitHub Stats" width="500" />
   <br/><br/>
   <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's GitHub Stats" />
