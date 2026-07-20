@@ -98,10 +98,5 @@
 <div align="center">
   <img src="contact.svg" alt="Contact Me" width="500" />
   <br/><br/>
-  <a href="mailto:picortesdiaz@ucsd.edu">
-    <img src="https://img.shields.io/badge/Email-picortesdiaz%40ucsd.edu-89CFF0?style=for-the-badge&logo=gmail&logoColor=89CFF0&labelColor=0D1B2A" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/paulinaivcortes/">
-    <img src="https://img.shields.io/badge/LinkedIn-paulinaivcortes-89CFF0?style=for-the-badge&logo=linkedin&logoColor=89CFF0&labelColor=0D1B2A" alt="LinkedIn" />
-  </a>
+  <a href="mailto:picortesdiaz@ucsd.edu"><img src="https://img.shields.io/badge/Email-picortesdiaz%40ucsd.edu-89CFF0?style=for-the-badge&logo=gmail&logoColor=89CFF0&labelColor=0D1B2A" alt="Email" /></a><a href="https://www.linkedin.com/in/paulinaivcortes/"><img src="https://img.shields.io/badge/LinkedIn-paulinaivcortes-89CFF0?style=for-the-badge&logo=linkedin&logoColor=89CFF0&labelColor=0D1B2A" alt="LinkedIn" /></a>
 </div>
