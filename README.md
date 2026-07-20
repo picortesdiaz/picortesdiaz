@@ -55,28 +55,28 @@
 <br/><br/>
 
 <div align="center">
-  <img src="languages.svg" alt="Programming Languages" width="500" />
+  <img src="languages.svg" alt="Programming Languages" width="550" />
   <br/><br/>
   <table>
     <tr align="center">
-      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+      <td align="center" width="150" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <br/>
-        <img src="c++.webp" alt="C++" height="65" style="border-radius: 6px;" />
-        <br/><br/>
+        <img src="c++.webp" alt="C++" height="45" style="border-radius: 4px;" />
+        <br/>
         <font color="#000000"><b>C++</b></font>
         <br/><br/>
       </td>
-      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+      <td align="center" width="150" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <br/>
-        <img src="Python.webp" alt="Python" height="65" style="border-radius: 6px;" />
-        <br/><br/>
+        <img src="Python.webp" alt="Python" height="45" style="border-radius: 4px;" />
+        <br/>
         <font color="#000000"><b>Python</b></font>
         <br/><br/>
       </td>
-      <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
+      <td align="center" width="150" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <br/>
-        <img src="bash.webp" alt="Bash" height="65" style="border-radius: 6px;" />
-        <br/><br/>
+        <img src="bash.webp" alt="Bash" height="45" style="border-radius: 4px;" />
+        <br/>
         <font color="#000000"><b>Bash</b></font>
         <br/><br/>
       </td>
