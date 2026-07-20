@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="banner" width="300" />
+  <img src="banner.gif" alt="banner" width="400" />
   <br/><br/>
   <img src="visitor.svg" alt="Visitor Count" width="500" />
   <br/>
