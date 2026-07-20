@@ -19,6 +19,7 @@
 <div align="center">
   <img src="stats.svg" alt="GitHub Stats" width="500" />
   <br/><br/>
-  <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&bg_color=ffffff&title_color=89cff0&text_color=000000&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's GitHub Stats" />
-  <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&bg_color=ffffff&title_color=89cff0&text_color=000000&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's Top Languages" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=89cff0&text_color=e0f2fe&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's GitHub Stats" />
+  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&theme=dark&bg_color=0d1b2a&title_color=89cff0&text_color=e0f2fe&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's Top Languages" />
+  <br/><br/>
 </div>
