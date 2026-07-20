@@ -92,3 +92,16 @@
   <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's GitHub Stats" />
   <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's Top Languages" />
 </div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="contact.svg" alt="Contact Me" width="500" />
+  <br/><br/>
+  <a href="mailto:picortesdiaz@ucsd.edu">
+    <img src="https://img.shields.io/badge/Email-picortesdiaz%40ucsd.edu-89CFF0?style=for-the-badge&logo=gmail&logoColor=10141D&labelColor=10141D" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulinaivcortes/">
+    <img src="https://img.shields.io/badge/LinkedIn-paulinaivcortes-89CFF0?style=for-the-badge&logo=linkedin&logoColor=10141D&labelColor=10141D" alt="LinkedIn" />
+  </a>
+</div>
