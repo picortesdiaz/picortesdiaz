@@ -100,3 +100,14 @@
   <br/><br/>
   <a href="mailto:picortesdiaz@ucsd.edu"><img src="https://img.shields.io/badge/Email-picortesdiaz%40ucsd.edu-89CFF0?style=for-the-badge&logo=gmail&logoColor=89CFF0&labelColor=0D1B2A" alt="Email" /></a><a href="https://www.linkedin.com/in/paulinaivcortes/"><img src="https://img.shields.io/badge/LinkedIn-paulinaivcortes-89CFF0?style=for-the-badge&logo=linkedin&logoColor=89CFF0&labelColor=0D1B2A" alt="LinkedIn" /></a>
 </div>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/picortesdiaz/picortesdiaz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/picortesdiaz/picortesdiaz/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/picortesdiaz/picortesdiaz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
