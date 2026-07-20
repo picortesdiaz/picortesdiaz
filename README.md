@@ -19,8 +19,8 @@
 <div align="center">
   <img src="stats.svg" alt="GitHub Stats" width="500" />
   <br/><br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=picortesdiaz&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="picortesdiaz's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=picortesdiaz&theme=transparent&count_private=true&border_radius=10&locale=en" alt="picortesdiaz's Streak Stats" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=89cff0&text_color=e0f2fe&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's GitHub Stats" />
+  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&theme=dark&bg_color=0d1b2a&title_color=89cff0&text_color=e0f2fe&icon_color=89cff0&border_color=89cff0" alt="picortesdiaz's Top Languages" />
   <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=picortesdiaz&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="picortesdiaz's Most Used Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=picortesdiaz&theme=react-dark&bg_color=0d1b2a&color=89cff0&line=89cff0&point=89cff0&area=true&hide_border=true" alt="picortesdiaz's Activity Graph" />
 </div>
