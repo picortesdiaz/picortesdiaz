@@ -33,7 +33,7 @@
       <td align="center" width="220" bgcolor="#10141D" style="border: 2px solid #89CFF0; border-radius: 8px;">
         <a href="https://neper.info/">
           <br/>
-          <img src="Gmsh.png" alt="Neper & Gmsh" height="65" style="border-radius: 6px;" />
+          <img src="Neper.png" alt="Neper & Gmsh" height="65" style="border-radius: 6px;" />
           <br/><br/>
           <font color="#FFFFFF"><b>Neper & Gmsh</b></font>
           <br/><br/>
