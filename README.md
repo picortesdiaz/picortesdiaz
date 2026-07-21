@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.gif" alt="banner" width="350" />
   <br/><br/>
-  <img src="visitor.svg" alt="Visitor Count" width="500" />
+  <img src="visitor.svg?v=1" alt="Visitor Count" width="500" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=picortesdiaz&label=VISITORS&color=89cff0&style=for-the-badge&labelColor=10141D" alt="Visitor Count" />
 </div>
@@ -17,7 +17,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="skills.svg" alt="Skills & Tools" width="500" />
+  <img src="skills.svg?v=1" alt="Skills & Tools" width="500" />
   <br/><br/>
   <table>
     <tr align="center">
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="languages.svg" alt="Programming Languages" width="650" />
+  <img src="languages.svg?v=1" alt="Programming Languages" width="650" />
   <br/><br/>
   <table>
     <tr align="center">
@@ -87,7 +87,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="stats.svg" alt="GitHub Stats" width="500" />
+  <img src="stats.svg?v=1" alt="GitHub Stats" width="500" />
   <br/><br/>
   <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's GitHub Stats" />
   <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's Top Languages" />
@@ -96,7 +96,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="contact.svg" alt="Contact Me" width="500" />
+  <img src="contact.svg?v=1" alt="Contact Me" width="500" />
   <br/><br/>
   <a href="mailto:picortesdiaz@ucsd.edu"><img src="https://img.shields.io/badge/Email-picortesdiaz%40ucsd.edu-89CFF0?style=for-the-badge&logo=gmail&logoColor=89CFF0&labelColor=0D1B2A" alt="Email" /></a><a href="https://www.linkedin.com/in/paulinaivcortes/"><img src="https://img.shields.io/badge/LinkedIn-paulinaivcortes-89CFF0?style=for-the-badge&logo=linkedin&logoColor=89CFF0&labelColor=0D1B2A" alt="LinkedIn" /></a>
 </div>
