@@ -18,10 +18,10 @@
         }
       </style>
     </defs>
-    <path id='path0'>
-      <animate id='d0' attributeName='d' begin='0s;d0.end'
-          dur='5000ms' fill='remove'
-          values='m0,22.5 h0 ; m0,22.5 h650 ; m0,22.5 h650 ; m0,22.5 h0' keyTimes='0;0.65;0.85;1' />
+    <path id='path0' d='m0,22.5 h650'>
+      <animate id='d0' attributeName='d' begin='0s'
+          dur='3s' fill='freeze'
+          values='m0,22.5 h0 ; m0,22.5 h650' />
     </path>
     <text class="pixel-text" x="50%">
         <textPath xlink:href='#path0'>
