@@ -86,14 +86,6 @@
 
 <br/><br/>
 
-<div align="center">
-  <img src="stats.svg?v=1" alt="GitHub Stats" width="500" />
-  <br/><br/>
-  <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=picortesdiaz&show_icons=true&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's GitHub Stats" />
-  <img align="top" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=picortesdiaz&layout=compact&bg_color=ffffff&title_color=5fbcde&text_color=000000&icon_color=5fbcde&border_color=5fbcde" alt="picortesdiaz's Top Languages" />
-</div>
-
-<br/><br/>
 
 <div align="center">
   <img src="contact.svg?v=1" alt="Contact Me" width="500" />
